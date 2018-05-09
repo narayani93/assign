@@ -1,0 +1,9 @@
+--> The ER diagram drawn after identifying entities.
+--> MySql queries executed to create tables and relationships.
+--> Database connection code developed and tested.
+--> Spring framework included to and initial beans were created.
+--> Controller, Model and Views created.
+--> JUnit testcases developed.
+--> Front-end modifications done.
+--> Tested.
+
